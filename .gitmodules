@@ -1,0 +1,3 @@
+[submodule "Plugins/GlowingQuad"]
+	path = Plugins/GlowingQuad
+	url = https://github.com/hollowdilnik/GlowingQuad
